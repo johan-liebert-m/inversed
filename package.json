@@ -1,0 +1,22 @@
+{
+  "name": "inversed",
+  "version": "1.0.0",
+  "description": "inverses words",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "inverse",
+    "words"
+  ],
+  "author": "johan liebert",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johan-liebert-m/inversed"
+  }
+}
